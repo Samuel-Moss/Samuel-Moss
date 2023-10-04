@@ -6,6 +6,6 @@
 
 ## About Me
 - 👀 I’m interested in Cloud Computing, System Administration and Cyber Security.
-- 🌱 I’m currently learning C++ whilst trying to advance my Python skills.
+- 🌱 I’m currently learning C++ whilst looking to advance my Python skills.
 - 🖥️ I also specalize in managing and providing comprehensive support for my own gameserver hosting provider. 
 
