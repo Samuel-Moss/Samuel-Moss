@@ -1,5 +1,5 @@
 # 🎃 Samuel Moss
-**`Cyber Security Student & Enthusisast`**
+**`Cyber Security Student & Enthusiast`**
 
 
 <p><italic>👋 Hey there, my name is Sam and I'm a passionate Cyber Security Student who is looking to advance into a career within Cyber.</italic></p>
