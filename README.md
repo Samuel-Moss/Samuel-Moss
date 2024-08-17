@@ -1,4 +1,4 @@
-# 🎃 Samuel Moss
+# 🔥 Samuel Moss
 **`Cyber Security Student & Enthusiast`**
 
 
@@ -7,7 +7,7 @@
 ## About Me
 - 👀 I’m interested in Cloud Computing, System Administration and Cyber Security.
 - 🌱 I’m currently learning C++ whilst looking to advance my Python skills.
-- 🖥️ I also specalize in managing and providing comprehensive support for my own gameserver hosting provider.
+- 🖥️ I also specalize in managing and providing comprehensive support for my own gameserver & website hosting provider.
 
 ## Tools & Languages
 <p>Operating Systems I Use </p>
